@@ -191,7 +191,11 @@ Make sure to meet all prerequisites and ensure that the STM32 board and Raspberr
 - Amr Darwish [Amr Darwish](https://github.com/AmrDarwish)
 - Abdel-Hamid Tarek - [Abdel-Hamidd](https://github.com/Abdel-Hamidd)
 - Yasmen Ehab - [YasmenEhab](https://github.com/YasmenEhab)
--Mario Vector
+-Mario Vector - [Mario Vector](https://github.com/Mariovictore)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
