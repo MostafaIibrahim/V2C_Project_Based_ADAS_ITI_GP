@@ -1,8 +1,6 @@
 # V2C_Based_ADAS_Project_ITI_GP
-# V2C_Based_ADAS_Project_ITI_GP
 
 ![Cover](https://github.com/MostafaIibrahim/V2C_Project_Based_ADAS_ITI_GP/blob/main/Docs/images/nexusjpeg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## Overview
 The V2C ADAS Nexus project aims to create a cutting-edge embedded system that seamlessly integrates safety and connectivity features for the automotive industry. By combining Advanced Driver Assistance Systems (ADAS) with Vehicle-to-Cloud (V2C) communication, this project intends to enhance vehicle safety, improve driver experience, and redefine the standard for automotive technology.
